@@ -3,3 +3,7 @@ body {
 	font-weight: normal;
 	color: red;
 }
+
+p {
+	background-color: #F00;
+}
